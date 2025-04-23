@@ -6,8 +6,11 @@ I'm diving into machine learning, statistical modeling, and cloud-based data wor
 
 💻 Current focus:
 
-Cleaning and analyzing complex, real-world data
-Exploring APIs and supervised ML techniques
-Applying AI tools to uncover patterns and improve outcomes
+  - Cleaning and analyzing complex, real-world data
+  - Exploring APIs and supervised ML techniques
+  - Applying AI tools to uncover patterns and improve outcomes
+
 🔎 Always open to learning, building, and collaborating.
+
 📫 Reach me at elifmyild@gmail.com
+
