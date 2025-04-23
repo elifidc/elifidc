@@ -1,4 +1,4 @@
-👋 Hi, I'm Elif
+Hi, I'm Elif
 📍 Data Science Grad Student | Aspiring Analyst | Curious Problem Solver  
 
 I'm currently exploring data analysis, visualization, and storytelling using tools like Python, R, SQL, and Tableau. My projects reflect both academic work and real-world interests—especially in areas like public data, consumer behavior, and business analytics.
