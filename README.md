@@ -2,7 +2,7 @@
 
 📍 Data Science Grad Student | Aspiring Analyst | Curious Problem Solver
 
-I'm diving into machine learning, statistical modeling, and cloud-based data workflows using Python, R, SQL, and Databricks. My projects span public datasets, consumer behavior, and real-world decision-making—blending academic insight with practical exploration.
+I'm diving into machine learning, statistical modeling, and cloud-based data workflows using Python, R, SQL, and Databricks. My projects span public datasets, consumer behavior, and real-world decision-making.
 
 💻 Current focus:
 
